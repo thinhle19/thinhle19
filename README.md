@@ -1,12 +1,8 @@
-<!-- Header -->
-<h1 align="center">
-  Hi, I'm Le Tien Thinh <img src="./images/hi.gif" width="30px" height="30px">
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+there!+I'm+Thinh+Le!)](https://git.io/typing-svg)
 
-<!-- Counter -->
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthinhle19%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
-</p>
+[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/thinhle19/)](https://www.linkedin.com/in/thinhle19/)
+[![Facebook](https://img.shields.io/twitter/url?label=Facebook&logo=facebook&url=https://www.facebook.com/ltthinh19//)](https://www.facebook.com/ltthinh19/)
+![](https://komarev.com/ghpvc/?username=thinhle19)
 
 <p align="center">
   <b>I'm a musicalholic geek</b>
@@ -99,15 +95,4 @@
   <b>📊 Wakatime Stats</b>
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
-</p>
-
-<!-- Connection -->
-<h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
-<p align="center">
-  <a href="https://www.facebook.com/ltthinh19/" target="_blank">
-    <code><img src="./images/facebook.svg" alt="Thinh Le Facebook" height="30" width="40"/></code>
-  </a>
-  <a href="https://www.linkedin.com/in/thinhle19/" target="_blank">
-    <code><img src="./images/linkedin.svg" alt="Thinh Le Linkedin" height="30" width="40"/></code>
-  </a>
 </p>
