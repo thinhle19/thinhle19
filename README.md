@@ -1,27 +1,24 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="./images/logo.svg" width="500">
-  <br>
   Hi, I'm Le Tien Thinh <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
 <p align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthinhle19%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthinhle19%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
 </p>
 
 <p align="center">
-  <b>I'm a passionate programmer who loves to code</b>
+  <b>I'm a musicalholic geek</b>
 </p>
 
 <img align='right' src="./images/coding.gif" width="300">
 <br>
 
-- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
+- ♍ I love the process of creating things from my 10 fingers and watch them create benefits.
 - 📓 I'm a student of [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn).
-- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a **Backend Crew Leader**.
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
+- 👨🏻‍💻 I am currently a member at [F-Code](https://www.facebook.com/fcodefpt) - an Academic Club with full of passionate members.
+- 🌱 I’m currently focusing on **Backend Development** and learning **Flutter Development**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
 <!-- Tech stack -->
@@ -30,20 +27,20 @@
   <b>Languages</b>
   <br>
   <br>
+  <a href="https://www.java.com" target="_blank">
+    <code><img src="./images/java.svg" alt="Java" height="40"/></code>
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <code><img src="./images/dart.svg" alt="Dart" height="40"/></code>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <code><img src="./images/c-hashtag.svg" alt="C-Sharp" height="40"/></code>
+  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <code><img src="./images/c.svg" alt="C" height="40"/></code>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <code><img src="./images/java.svg" alt="Java" height="40"/></code>
-  </a>
-  <a href="https://go.dev" target="_blank">
-    <code><img src="./images/golang.svg" alt="Golang" height="40"/></code>
   </a>
 </p>
 
@@ -63,19 +60,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
   </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
+  <a href="https://flutter.dev/" target="_blank">
+    <code><img src="./images/flutter.svg" alt="Flutter" height="40"/></code>
   </a>
   <br>
-  <a href="https://reactjs.org" target="_blank">
-    <code><img src="./images/react.svg" alt="ReactJS" height="40"/></code>
-  </a>
-  <a href="https://preactjs.com" target="_blank">
-    <code><img src="./images/preact.svg" alt="PreactJS" height="40"/></code>
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <code><img src="./images/next.svg" alt="NextJS" height="40"/></code>
-  </a>
 </p>
 
 <br>
@@ -85,94 +73,35 @@
   <b>Backend</b>
   <br>
   <br>
-  <a href="https://nodejs.org" target="_blank">
-    <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://expressjs.com" target="_blank">
-    <code><img src="./images/express.svg" alt="ExpressJS" height="40"/></code>
-  </a>
-  <a href="https://nestjs.com" target="_blank">
-    <code><img src="./images/nest.svg" alt="NestJS" height="40"/></code>
-  </a>
-  <a href="https://spring.io" target="_blank">
+  <a href="https://spring.io/" target="_blank">
     <code><img src="./images/spring.svg" alt="Spring" height="40"/></code>
-  </a>
+  </a> 
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <code><img src="./images/dot-net-core.svg" alt=".NET Core" height="40"/></code>
+  </a> 
   <br>
-  <a href="https://mongodb.com" target="_blank">
+  <a href="https://www.wikiwand.com/en/Microsoft_SQL_Server" target="_blank">
+    <code><img src="./images/sql-server.svg" alt="MSSQL Server" height="40"/></code>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
     <code><img src="./images/mongodb.svg" alt="MongoDB" height="40"/></code>
   </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <code><img src="./images/mysql.svg" alt="MySQL" height="40"/></code>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <code><img src="./images/sql-server.svg" alt="SQL Server" height="40"/></code>
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <code><img src="./images/redis.svg" alt="Redis" height="40"/></code>
-  </a> 
 </p>
 
 <br>
 <br>
 
-<p align="center">
-  <b>System & DevOps</b>
-  <br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-    <code><img src="./images/windows.svg" alt="Windows" height="40"/></code>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-    <code><img src="./images/linux.svg" alt="Linux" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://docker.com" target="_blank">
-    <code><img src="./images/docker.svg" alt="Docker" height="40"/></code>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <code><img src="./images/nginx.svg" alt="Nginx" height="40"/></code>
-  </a>
-  <a href="https://pm2.keymetrics.io" target="_blank">
-    <code><img src="./images/pm2.svg" alt="PM2" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://cloud.google.com" target="_blank">
-    <code><img src="./images/google-cloud.svg" alt="Google Cloud" height="40"/></code>
-  </a>
-  <a href="https://www.heroku.com" target="_blank">
-    <code><img src="./images/heroku.svg" alt="Heroku" height="40"/></code>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank">
-    <code><img src="./images/azure.svg" alt="Azure" height="40"/></code>
-  </a>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <b>Other</b>
-  <br>
-  <br>
-  <a href="https://www.electronjs.org" target="_blank">
-    <code><img src="./images/electron.svg" alt="ElectronJS" height="40"/></code>
-  </a>
-</p>
-
+[![Thinh Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhle19&count_private=true&show_icons=true)](https://github.com/thinhle19/github-readme-stats)
 <!-- My activity -->
 <h2>My activity <img src="./images/github-stats.gif" height="35px"></h2>
-<details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <p align="center">
-    <img alt="Mosted used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHTGo&layout=compact&theme=dark" height="192px"/>
     <br>
-	  <img src="https://github-readme-stats.vercel.app/api?username=oHTGo&show_icons=true&icon_color=ffffff&theme=dark" alt="oHTGo's Github Stats" height="192px"/>
+	  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhle19)](https://github.com/thinhle19/github-readme-stats)" height="192px"/>
     <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 <details>
   <summary><b>⚡ GitHub Contribution</b></summary>
   <br>
