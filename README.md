@@ -90,91 +90,24 @@
 
 <br>
 <br>
-
-[![Thinh Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhle19&count_private=true&show_icons=true)](https://github.com/thinhle19/github-readme-stats)
 <!-- My activity -->
 <h2>My activity <img src="./images/github-stats.gif" height="35px"></h2>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br>
-  <p align="center">
-    <br>
-	  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhle19)](https://github.com/thinhle19/github-readme-stats)" height="192px"/>
-    <br>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-<details>
-  <summary><b>⚡ GitHub Contribution</b></summary>
-  <br>
-  <p><img alt="oHTGo's GitHub Contribution" src="https://github.com/oHTGo/oHTGo/blob/snake/snake.svg"/></p>
-  <br>
-</details>
-<details> 
-  <summary><b>📊 Wakatime Stats</b></summary>
-  <br>
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2025%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    107 commits    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.58% 
-🌆 Daytime    160 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.77% 
-🌃 Evening    204 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.23% 
-🌙 Night      49 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.42%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       84 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.15% 
-Tuesday      96 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.46% 
-Wednesday    77 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.81% 
-Thursday     40 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.69% 
-Friday       59 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.35% 
-Saturday     78 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.0% 
-Sunday       86 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.54%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Other                    20 hrs 21 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.68% 
-Go                       10 hrs 7 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.67% 
-JSON                     1 hr 4 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.06% 
-Java                     51 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.45% 
-Makefile                 47 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.24%
-
-🔥 Editors: 
-Browser                  20 hrs 13 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.32% 
-VS Code                  14 hrs 1 min        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.75% 
-NetBeans                 1 hr 2 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.94%
-
-```
-
-
-<!--END_SECTION:waka-->
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhle19&count_private=true&layout=compact">
+</p>
+<p align="center">
+  <b>📊 Wakatime Stats</b>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</p>
 
 <!-- Connection -->
 <h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
 <p align="center">
-  <a href="https://facebook.com/nguyennhathuy.orit" target="_blank">
-    <code><img src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
+  <a href="https://www.facebook.com/ltthinh19/" target="_blank">
+    <code><img src="./images/facebook.svg" alt="Thinh Le Facebook" height="30" width="40"/></code>
   </a>
-  <a href="https://instagram.com/_.lil.huy._" target="_blank">
-    <code><img src="./images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
+  <a href="https://www.linkedin.com/in/thinhle19/" target="_blank">
+    <code><img src="./images/linkedin.svg" alt="Thinh Le Linkedin" height="30" width="40"/></code>
   </a>
-</p>
-
-<!-- Signal -->
-<p align="right">
-  <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
-  <br>
-  <em>Lil Huy</em>
 </p>
