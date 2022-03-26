@@ -2,12 +2,12 @@
 <h1 align="center">
   <img src="./images/logo.svg" width="500">
   <br>
-  Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="./images/hi.gif" width="30px" height="30px">
+  Hi, I'm Le Tien Thinh <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
 <p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
+  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthinhle19%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)">
 </p>
 
 <p align="center">
