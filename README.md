@@ -14,7 +14,7 @@
 - ♍ I love the process of creating things from my 10 fingers and watch them create benefits.
 - 📓 I'm a student of [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn).
 - 👨🏻‍💻 I am currently a member at [F-Code](https://www.facebook.com/fcodefpt) - an Academic Club with full of passionate members.
-- 🌱 I’m currently focusing on **Backend Development** and learning **Flutter Development**.
+- 🌱 I’m currently focusing on **Backend Development** and learning about **Spring Ecosystem**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
 <!-- Tech stack -->
