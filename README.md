@@ -96,6 +96,10 @@
   <!--START_SECTION:waka-->
 
 ```text
+From: 21 March 2022 - To: 28 March 2022
+
+Total Time: 2 hrs 26 mins
+
 Other        11 hrs 58 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.02 %
 ```
 
