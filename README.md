@@ -94,7 +94,7 @@
 <p align="center">
   <b>📊 Wakatime Stats</b>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%204%20mins-blue)
 
 **I'm a Night 🦉** 
 
