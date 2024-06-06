@@ -136,11 +136,14 @@
 <h2>My activity <img src="./images/github-stats.gif" height="35px"></h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhle19&count_private=true&layout=compact">
+
 </p>
 <p align="center">
   <b>📊 Wakatime Stats</b>
   <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-983%20hrs%2054%20mins-blue)
+  <br>
+  <img src="https://img.shields.io/badge/Code%20Time-983%20hrs%2054%20mins-blue"> 
+</p>
 
 **I'm a Night 🦉** 
 
