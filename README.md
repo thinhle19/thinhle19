@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+there!+I'm+Thinh+Le!)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/thinhle19/)](https://www.linkedin.com/in/thinhle19/)
+[![Upwork](https://img.shields.io/twitter/url?label=Upwork&logo=upwork&logoColor=green&url=https://www.upwork.com/freelancers/~01f12733a7302716a2)](https://www.upwork.com/freelancers/~01f12733a7302716a2)
 [![Facebook](https://img.shields.io/twitter/url?label=Facebook&logo=facebook&url=https://www.facebook.com/ltthinh19//)](https://www.facebook.com/ltthinh19/)
 ![](https://komarev.com/ghpvc/?username=thinhle19)
 
