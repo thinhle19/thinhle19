@@ -143,8 +143,6 @@
   <b>📊 Wakatime Stats</b>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2023%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
